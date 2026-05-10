@@ -40,7 +40,7 @@ pip install pyaudio gTTS
 ## 🚀 Usage
 Simply run the python script:
 ```bash
-python3 mp3.py
+python3 main.py
 ```
 - Click **"🎵 Select Audio File"** to transcribe existing `.mp3`, `.wav`, or `.m4a` files.
 - Click **"🎤 Start Recording"** for live dictation.
